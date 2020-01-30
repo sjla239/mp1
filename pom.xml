@@ -354,7 +354,7 @@
     </resources>
     <!-- define build -->
     <plugins>
-      <!-- Enforce Maven 3.5.0 -->
+      <!-- Enforce Maven 3.4.0 -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-enforcer-plugin</artifactId>
